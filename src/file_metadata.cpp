@@ -39,7 +39,7 @@ FileMetadata FileMetadata::fromJson(const nlohmann::json& j) {
     return metadata;
 }
 
-bool FileMetadata::save(const Config::ChunkConfig& config) const {
+bool FileMetadata::save(const Config::ChunkConfig config) const {
     fs::path metadata_dir = config.getMetadataDirPath();
     fs::path metadata_path = metadata_dir / (original_filename + ".json");
 

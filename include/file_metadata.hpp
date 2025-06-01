@@ -6,8 +6,8 @@
 #include <filesystem>
 #include <chrono> // For timestamps
 
-#include <nlohmann/json> // For JSON handling
-#include "include/chunk_config.hpp"  // For directory paths
+#include <nlohmann/json.hpp> // For JSON handling
+#include "chunk_config.hpp"  // For directory paths
 
 namespace FileManager {
 namespace Metadata {

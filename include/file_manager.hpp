@@ -9,7 +9,7 @@
 #include "chunk_config.hpp"
 #include "cid_utility.hpp"
 #include "chunk.hpp"
-#include "include/file_metadata.hpp"
+#include "file_metadata.hpp"
 #include "chunk_reference_manager.hpp"
 #include "thread_pool.hpp"
 

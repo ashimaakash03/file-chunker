@@ -1,3 +1,0 @@
-C:/Users/Ashish/3D Objects/file-manager-service/build/CMakeFiles/file-manager-service.dir
-C:/Users/Ashish/3D Objects/file-manager-service/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Ashish/3D Objects/file-manager-service/build/CMakeFiles/ZERO_CHECK.dir
